@@ -4,7 +4,7 @@
 ## 爬虫目标
 爬虫字段：`职位名称`、`职位URL`、`职位要求` （逗号分隔 csv 文件）
 
-完整代码：
+完整代码：https://github.com/bigdataboy2020/job51_spider
 
 [![mark](https://bigdataboy-cn.oss-cn-shanghai.aliyuncs.com/bigdataboy/20201210/105010058.png)]()
 
